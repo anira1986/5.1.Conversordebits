@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor de Bits</string>
+    <string name="bits">Insira o valor em Bits</string>
+    <string name="converter_para">Converter para:</string>
+    <string name="bytes">Bytes</string>
+    <string name="kb">Kilobytes (KB)</string>
+    <string name="mb">Megabytes (MB)</string>
+    <string name="gb">Gigabytes (GB)</string>
+    <string name="tb">Terabytes (TB)</string>
+    <string name="converter">Converter</string>
+</resources>
